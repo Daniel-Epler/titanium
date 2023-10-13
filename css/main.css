@@ -193,11 +193,11 @@ body {
     position: relative;
     padding: 20px 40px;
     margin-top:63px;
-    background: rgba(50, 50, 50, 0.4);
-    border-top: var(--main-color) 3px solid;
-    border-bottom: var(--main-color) 3px solid;
-    border-left: var(--main-color) 3px solid;
-    border-right: var(--main-color) 3px solid;
+    background: #202020;
+    border-top: #151515 3px solid;
+    border-bottom: #151515 3px solid;
+    border-left: #151515 3px solid;
+    border-right: #151515 3px solid;
     -webkit-box-shadow: 1px 2px 3px #000;
     -moz-box-shadow: 1px 2px 3px #111;
     box-shadow: 1px 2px 3px #1d1d1d;
